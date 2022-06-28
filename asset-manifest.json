@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/landing-page-template/static/css/main.0adb0e97.css",
+    "main.js": "/landing-page-template/static/js/main.77db9a6e.js",
+    "index.html": "/landing-page-template/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.0adb0e97.css",
+    "static/js/main.77db9a6e.js"
+  ]
+}
