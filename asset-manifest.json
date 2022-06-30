@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.0adb0e97.css",
-    "main.js": "/static/js/main.0806a9c7.js",
-    "index.html": "/index.html"
+    "main.css": "/landing-page-template/static/css/main.0adb0e97.css",
+    "main.js": "/landing-page-template/static/js/main.0806a9c7.js",
+    "index.html": "/landing-page-template/index.html"
   },
   "entrypoints": [
     "static/css/main.0adb0e97.css",
