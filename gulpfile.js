@@ -15,5 +15,5 @@ gulp.task('default', () => {
         .pipe(inlinesource({
             compress: false,
         }))
-        .pipe(gulp.dest('./build/bundled'))
+        .pipe(gulp.dest('./build/bundle'))
 });
