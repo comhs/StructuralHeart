@@ -1,7 +1,8 @@
 {
     "name": "comhs-landing-page-template",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "private": true,
+    "homepage": "https://comhs.github.io/landing-page-template",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
         "@testing-library/react": "^13.3.0",
@@ -16,8 +17,9 @@
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
         "start": "react-scripts start",
+        "dev": "react-scripts start",
         "build": "react-scripts build",
-        "gulp": "react-scripts build && npx gulp",
+        "gulp": "npx gulp prebundle && react-scripts build && npx gulp",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },
