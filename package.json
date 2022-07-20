@@ -1,8 +1,8 @@
 {
-    "name": "comhs-landing-page-template",
+    "name": "structural-heart",
     "version": "1.0.0",
     "private": true,
-    "homepage": "https://comhs.github.io/landing-page-template",
+    "homepage": "https://comhs.github.io/StructuralHeart",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
         "@testing-library/react": "^13.3.0",
