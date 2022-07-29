@@ -1,33 +1,33 @@
 {
     "cards": [
         {
-            "title": "COVID and Your Heart",
-            "text": "Lingering health issues related to COVID may affect your heart, no matter what your age. It is essential to have one of our cardiologists check your heart, especially before resuming exercise.",
+            "title": "An expert team of cardiologists",
+            "text": "A full team experts convene weekly to comprehensively evaluate each case to ensure the best possible outcomes. The team includes: interventional cardiologists, cardiac surgeons, electrophysiologists and imaging specialists.",
             "id": "btn-1",
             "hide": "false",
             "textTheme": "dark",
-            "CTA": "Schedule Appointment",
+            "CTA": "",
             "bgImg": "",
             "url": ""
         },
         {
-            "title": "This Heart Scan Can Give You Peace of Mind",
-            "text": "A coronary calcium scan is a specialized X-ray that measures plaque in your arteries. You can get one without symptoms or a physician referral. It’s just $49 and well worth it at any cost.",
+            "title": "Area's leading TAVR expertise",
+            "text": "Our teams have performed over 500 Transcatheter Aortic Valve Replacements (TAVR), making us one of the most experienced in the Midwest. The hybrid operating room ensures a high degree of precision and unmatched consistency.",
             "id": "btn-2",
             "hide": "false",
             "textTheme": "dark",
-            "CTA": "Request An Appointment",
+            "CTA": "Click here to read about our 500th TAVR procedure",
             "bgImg": "",
             "url": "#"
         },
         {
-            "title": "Unique Heart Issues in Women",
-            "text": "Heart disease in women is on the rise. Smaller arteries leading to the heart are subject to blockages. Unique symptoms can be vague, including shortness of breath or pain in the neck, jaw, throat, upper abdomen and back.",
+            "title": "WATCHMAN FLX™\ntechnology reduces risk of stroke for Billy Ray Pierce",
+            "text": "",
             "id": "btn-3",
             "hide": "false",
             "textTheme": "light",
             "CTA": "Read More",
-            "bgImg": "https://raw.githubusercontent.com/comhs/LungCancerScreen/main/src/images/hero1.jpg",
+            "bgImg": "https://raw.githubusercontent.com/comhs/StructuralHeart/main/src/images/WatchmanFLX.jpg",
             "url": "#"
         }
     ]

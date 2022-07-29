@@ -15,8 +15,8 @@ function Cards() {
           }
           
             style={
-              card.bgImg !== "" && card.textTheme === "light" ? { backgroundImage: `linear-gradient(#0003,#0007), url(${card.bgImg})` }
-                : card.bgImg !== "" && card.textTheme === "dark" ? { backgroundImage: `linear-gradient(#FFF6,#FFFC), url(${card.bgImg})` }
+              card.bgImg !== "" && card.textTheme === "light" ? { backgroundImage: `linear-gradient(#0000,#0006), url(${card.bgImg})` }
+              : card.bgImg !== "" && card.textTheme === "dark" ? { backgroundImage: `linear-gradient(#FFF0,#FFF7), url(${card.bgImg})` }
                   : {}
             }
           >

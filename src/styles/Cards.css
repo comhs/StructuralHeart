@@ -33,6 +33,10 @@
   padding: 10px 0;
 }
 
+.card>* {
+  white-space: pre-line;
+}
+
 
 .card>.card-cta {
   display: flex;

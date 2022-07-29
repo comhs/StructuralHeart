@@ -217,7 +217,9 @@ div.container {
 }
 
 div.container>* {
-   max-width: 1200px;
+   max-width: 1600px;
+   width: 90%;
+   /* max-width: 1200px; */
    margin: 0 auto;
 }
 
