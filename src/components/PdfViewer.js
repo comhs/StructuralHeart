@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import '../styles/StoryModal.css';
 
 const PdfViewer = ({ link }) => {
   return (
