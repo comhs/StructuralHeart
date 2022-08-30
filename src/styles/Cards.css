@@ -72,22 +72,27 @@
 
 .card.lightText * {
   color: var(--white);
-  z-index: 1;
+  /* z-index: 1; */
 }
 
 .card.darkText * {
   color: var(--blue-20);
-  z-index: 1;
+  /* z-index: 1; */
 }
 
 .card.bgImg {
   justify-content: flex-end;
+  min-height: 340px;
 }
 
 .card.bgImg * {
   text-align: center;
 }
 
+.card.bgImg>h3.card-title {
+    font-size: 30px;
+    line-height: 1.1;
+  }
 
 @media (max-width: 900px) {
   .cards {
@@ -99,16 +104,29 @@
     text-align: center;
   }
 
+  .card.bgImg>h3.card-title {
+    font-size: 24px;
+    line-height: 1.2;
+  }
+
+  .card.bgImg {
+    min-height: 350px;
+  }
+  
   .card:nth-last-child(1):nth-child(odd) {
     margin: 0 auto;
     grid-column: -1 / 1;
     width: 50%;
   }
-
+  
 }
 
 @media (max-width: 450px) {
   .cards>.card:nth-last-child(1) {
     width: 100%;
+  }
+
+  .card.bgImg {
+    min-height: 320px;
   }
 }

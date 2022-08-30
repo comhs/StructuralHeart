@@ -18,7 +18,7 @@
             "textTheme": "dark",
             "CTA": "Click here to read about our 500th TAVR procedure",
             "bgImg": "",
-            "url": "#"
+            "url": "https://www.comhs.org/-/media/Images/Community-Healthcare-Only/Campaigns/CV/Structural%20Heart/TAVR_Nancy%20Price"
         },
         {
             "title": "WATCHMAN FLX™\ntechnology reduces risk of stroke for Billy Ray Pierce",
@@ -28,7 +28,7 @@
             "textTheme": "light",
             "CTA": "Read More",
             "bgImg": "https://raw.githubusercontent.com/comhs/StructuralHeart/main/src/images/WatchmanFLX.jpg",
-            "url": "#"
+            "url": "https://www.comhs.org/-/media/Images/Community-Healthcare-Only/Campaigns/CV/Structural%20Heart/WATCHMAN_Billy%20Ray%20Pierce"
         }
     ]
 }

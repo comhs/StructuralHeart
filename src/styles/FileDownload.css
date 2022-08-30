@@ -1,0 +1,9 @@
+.file-download {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.file-download>div {
+  font-size: var(--heading-two);
+}
+

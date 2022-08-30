@@ -7,12 +7,16 @@ import Hero from './Hero';
 import ContentFull from './ContentFull';
 import Footer from './Footer';
 import Cards from './Cards';
+// import StoryModal from './StoryModal';
+// import PdfViewer from './PdfViewer';
+// import FileDownload from './FileDownload';
 
 function Main() {
   return (
     <div>
+      {/* <StoryModal /> */}
       <Header />
-      <Hero darkText="true" phone="(219) XXX-XXXX" ctaButton="false">
+      <Hero darkText="true" phone="(219) 703-2062" ctaButton="false">
         Call today to schedule<br />
         an appointment
       </Hero>
@@ -24,6 +28,7 @@ function Main() {
         </ContentFull>
         <Cards />
         <Footer />
+        {/* <PdfViewer /> */}
         <Asterisk />
       </div>
     </div>

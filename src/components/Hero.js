@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import FileDownload from './FileDownload';
 import '../styles/Hero.css';
 const json = require('../api/images.json');
 
@@ -27,6 +28,7 @@ function Hero({ children, phone, darkText, ctaButton }) {
             <div className="hero-button" id="mainBtn">Request&nbsp;an&nbsp;Appointment</div> :
             null
         }
+        <FileDownload />
       </div>
     </div>
   )
