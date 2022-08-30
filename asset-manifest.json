@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/landing-page-template/static/css/main.0adb0e97.css",
-    "main.js": "/landing-page-template/static/js/main.0806a9c7.js",
-    "index.html": "/landing-page-template/index.html"
+    "main.css": "/StructuralHeart/static/css/main.2ed0e498.css",
+    "main.js": "/StructuralHeart/static/js/main.09f0b7d9.js",
+    "index.html": "/StructuralHeart/index.html"
   },
   "entrypoints": [
-    "static/css/main.0adb0e97.css",
-    "static/js/main.0806a9c7.js"
+    "static/css/main.2ed0e498.css",
+    "static/js/main.09f0b7d9.js"
   ]
 }
